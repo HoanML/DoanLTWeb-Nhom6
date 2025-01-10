@@ -81,7 +81,7 @@
 /* form */
 
 .contact-form {
-  font-family: Poppins;
+  font-family: "Poppins", sans-serif;
   max-width: 800px;
   margin: 50px auto;
   padding: 40px;
@@ -135,7 +135,7 @@
 @media (max-width: 991px) {
   .contact {
     height: auto;
-    /padding: 20px;
+    padding: 20px;
   }
 
   .contact-banner {
